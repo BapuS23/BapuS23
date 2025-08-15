@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bapu Singh Gawali</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img src="<img width="626" height="626" alt="image" src="https://github.com/user-attachments/assets/5a9ae407-1afd-442a-96d3-c2b98377e611" />"> </img>
+
 - 🌱 I’m currently learning **DSA and Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BapuS23](https://github.com/BapuS23)
