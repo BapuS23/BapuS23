@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BapuS23](https://github.com/BapuS23)
 
-- 💬 Ask me about **c++,html,css,javascript,Reactjs,Nodejs,expressjs,MongoDB**
+- 💬 Ask me about **C++,HTML,CSS,Javascript,Reactjs,Nodejs,expressjs,MongoDB**
 
 - 📫 How to reach me **bapusinghgawali@gmail.com**
 
