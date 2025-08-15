@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bapu Singh Gawali</h1>
 <h3 align="center">A passionate Software developer from India</h3>
+<img src="https://www.google.com/imgres?q=animated%20technology%20pictures&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fcute-astronaut-working-laptop-cartoon-vector-icon-illustration-science-technology-icon-isolated_138676-4634.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-vector%2Fcute-astronaut-working-laptop-cartoon-vector-icon-illustration-science-technology-icon-isolated_25528616.htm&docid=QHwAQ43l9X05pM&tbnid=odc9-XiAXaS4CM&vet=12ahUKEwjq67vYq42PAxXazDgGHah5GBYQM3oECBkQAA..i&w=626&h=626&hcb=2&ved=2ahUKEwjq67vYq42PAxXazDgGHah5GBYQM3oECBkQAA"> </img>
 
 - 🌱 I’m currently learning **DSA and Web Development**
 
